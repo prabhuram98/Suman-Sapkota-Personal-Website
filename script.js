@@ -2,7 +2,7 @@
 // PERSONAL DETAILS — EDIT THESE
 // ===============================
 const PERSON = {
-  name: "YOUR NAME",
+  name: "SUMAN SAPKOTA",
   initials: "YN",
   email: "YOUR.EMAIL@example.com",
   linkedin: "https://www.linkedin.com/in/YOUR-USERNAME/",
